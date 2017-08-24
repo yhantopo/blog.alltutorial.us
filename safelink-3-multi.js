@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="cell-phones-and-cancer-risk.html"}
-if(x=="2"){xxx="top-5-best-cell-phone-spy-software.html"}
-if(x=="3"){xxx="how-to-keep-android-phone-safe-and.html"}
-if(x=="4"){xxx="best-budget-camera-phones-2017.html"}
-if(x=="5"){xxx="no-cellphones-dont-cause-cancer-probably.html"}a_to_ve[i].href="http://blog.alltutorial.us/2017/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="big-data.html"}
+if(x=="2"){xxx="big-data-innovation.html"}
+if(x=="3"){xxx="big-data-information.html"}
+if(x=="4"){xxx="big-data-analytics.html"}
+if(x=="5"){xxx="big-data-technology.html"}a_to_ve[i].href="http://blog.alltutorial.us/2017/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
